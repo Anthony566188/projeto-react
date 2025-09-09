@@ -1,4 +1,5 @@
 // src/App.tsx
+// teste
 
 import Welcome from './components/Welcome';
 import './App.css';
